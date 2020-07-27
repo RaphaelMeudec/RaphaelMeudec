@@ -14,9 +14,6 @@ I'm Raphael! I'm Lead Data Scientist @ [Sicara](https://www.sicara.com) and main
 - 07/2019: [Introducing tf-explain, Interpretability for TensorFlow 2.0](https://medium.com/sicara/tf-explain-interpretability-tensorflow-2-9438b5846e35)
 - 03/2018: [GAN with Keras: Application to Image Deblurring](https://medium.com/sicara/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5)
 
-### Some talks I did
-
-[To complete]
 
 ### Where you can contact me
 
