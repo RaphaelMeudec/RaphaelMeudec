@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm Raphael! I'm Lead Data Scientist @ [Sicara](https://www.sicara.com) and mainly working on Computer Vision (object detection, few-shot learning and interpretability).
+I'm Raphael! I'm a PhD student @ [Parietal](https://www.github.com/Parietal-INRIA). Previously, I worked @ [Sicara](https://www.sicara.com) as Lead Data Scientist on Computer Vision projects.
 
-### Opensource I'm working on
+### Opensource
 
 - [tf-explain](https://www.github.com/sicara/tf-explain), a TensorFlow 2.x library for interpretability of DL models
 - [tf2-yolov4](https://www.github.com/sicara/tf2-yolov4), a TensorFlow 2.x implementation of YOLOv4
