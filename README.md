@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Raphael! I'm a PhD student @[Parietal](https://www.github.com/Parietal-INRIA) on meta-analysis of fMRI studies. Previously, I worked @[Sicara](https://www.sicara.com) as Lead Data Scientist on Computer Vision projects.
+I'm Raphael! I'm a PhD student @[Parietal](https://www.github.com/Parietal-INRIA) on meta-analysis of fMRI studies. Previously, I worked @[Sicara](https://www.sicara.com) as Lead Data Scientist on computer vision projects.
 
 ### Opensource
 
