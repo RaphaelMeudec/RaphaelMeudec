@@ -6,4 +6,4 @@ I'm Raphael! I'm a PhD student @[Parietal](https://www.github.com/Parietal-INRIA
 
 - [tf-explain](https://www.github.com/sicara/tf-explain), a TensorFlow 2.x library for interpretability of DL models
 - [tf2-yolov4](https://www.github.com/sicara/tf2-yolov4), a TensorFlow 2.x implementation of YOLOv4
-- [gpumonitor](https://www.github.com/sicara/gpu-monitor), a monitoring tool of GPU usage compatible with both TF2.x and PyTorch Lightning
+- [gpumonitor](https://www.github.com/sicara/gpumonitor), a monitoring tool of GPU usage compatible with both TF2.x and PyTorch Lightning
